@@ -1,0 +1,15 @@
+﻿  tank.cpp
+C:\Users\user\Desktop\programming\강의\타일맵 검출\tank.cpp(85,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\강의\타일맵 검출\tank.cpp(85,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\강의\타일맵 검출\tank.cpp(94,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\강의\타일맵 검출\tank.cpp(94,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\강의\타일맵 검출\tank.cpp(103,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\강의\타일맵 검출\tank.cpp(103,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\강의\타일맵 검출\tank.cpp(112,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\강의\타일맵 검출\tank.cpp(112,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\강의\타일맵 검출\tank.cpp(145,27): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\강의\타일맵 검출\tank.cpp(145,23): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\강의\타일맵 검출\tank.cpp(65,6): warning C4101: 'tileIndex' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\programming\강의\타일맵 검출\tank.cpp(152,30): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programming\강의\타일맵 검출\tank.cpp(153,30): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  WindowsAPI.vcxproj -> C:\Users\user\Desktop\programming\강의\타일맵 검출\x64\Debug\WindowsAPI.exe
